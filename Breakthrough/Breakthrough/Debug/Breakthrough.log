@@ -1,0 +1,5 @@
+﻿  Breakthrough.cpp
+c:\users\fangz\onedrive\文档\fzq\cs 440\mp2\breakthrough\breakthrough\breakthrough.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\fangz\onedrive\文档\fzq\cs 440\mp2\breakthrough\breakthrough\breakthrough.cpp(30): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Breakthrough.vcxproj -> C:\Users\fangz\OneDrive\文档\FZQ\CS 440\mp2\Breakthrough\Debug\Breakthrough.exe
+  Breakthrough.vcxproj -> C:\Users\fangz\OneDrive\文档\FZQ\CS 440\mp2\Breakthrough\Debug\Breakthrough.pdb (Partial PDB)
